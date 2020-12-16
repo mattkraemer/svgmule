@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="circles.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg870"
+   version="1.1"
+   viewBox="0 0 789.97017 789.97021"
+   height="789.97021mm"
+   width="789.97021mm">
+  <defs
+     id="defs864">
+    <filter
+       id="filter1622"
+       inkscape:label="Greyscale"
+       style="color-interpolation-filters:sRGB">
+      <feColorMatrix
+         id="feColorMatrix1620"
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-6"
+     inkscape:window-x="-6"
+     inkscape:window-height="1018"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="1798.7083"
+     inkscape:cx="-2585.0694"
+     inkscape:zoom="0.0875"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata867">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-1535.2213,823.19523)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="matrix(0.95986663,0,0,0.95986663,1535.2213,-823.19523)"
+       id="g54">
+      <rect
+         x="0"
+         y="0"
+         width="823"
+         height="823"
+         fill="none"
+         id="rect2" />
+      <circle
+         cx="82.300003"
+         cy="82.300003"
+         r="16.459999"
+         fill="#f1f5f9"
+         id="circle4" />
+      <circle
+         cx="246.89999"
+         cy="82.300003"
+         r="16.459999"
+         fill="#f1f5f9"
+         id="circle6" />
+      <circle
+         cx="411.5"
+         cy="82.300003"
+         r="16.459999"
+         fill="#6363ff"
+         id="circle8" />
+      <circle
+         cx="576.09998"
+         cy="82.300003"
+         r="16.459999"
+         fill="#5d5dff"
+         id="circle10" />
+      <circle
+         cx="740.70001"
+         cy="82.300003"
+         r="16.459999"
+         fill="#fefefe"
+         id="circle12" />
+      <circle
+         cx="82.300003"
+         cy="246.89999"
+         r="16.459999"
+         fill="#f3f6fa"
+         id="circle14" />
+      <circle
+         cx="246.89999"
+         cy="246.89999"
+         r="16.459999"
+         fill="#dcdcff"
+         id="circle16" />
+      <circle
+         cx="411.5"
+         cy="246.89999"
+         r="16.459999"
+         fill="#f2f5f9"
+         id="circle18" />
+      <circle
+         cx="576.09998"
+         cy="246.89999"
+         r="16.459999"
+         fill="#2323ff"
+         id="circle20" />
+      <circle
+         cx="740.70001"
+         cy="246.89999"
+         r="16.459999"
+         fill="#8b8bff"
+         id="circle22" />
+      <circle
+         cx="82.300003"
+         cy="411.5"
+         r="16.459999"
+         fill="#eef3f7"
+         id="circle24" />
+      <circle
+         cx="246.89999"
+         cy="411.5"
+         r="16.459999"
+         fill="#fafbfd"
+         id="circle26" />
+      <circle
+         cx="411.5"
+         cy="411.5"
+         r="16.459999"
+         fill="#f1f5f9"
+         id="circle28" />
+      <circle
+         cx="576.09998"
+         cy="411.5"
+         r="16.459999"
+         fill="#1414ff"
+         id="circle30" />
+      <circle
+         cx="740.70001"
+         cy="411.5"
+         r="16.459999"
+         fill="#eef3f7"
+         id="circle32" />
+      <circle
+         cx="82.300003"
+         cy="576.09998"
+         r="16.459999"
+         fill="#eff3f8"
+         id="circle34" />
+      <circle
+         cx="246.89999"
+         cy="576.09998"
+         r="16.459999"
+         fill="#1818ff"
+         id="circle36" />
+      <circle
+         cx="411.5"
+         cy="576.09998"
+         r="16.459999"
+         fill="#f6f9fb"
+         id="circle38" />
+      <circle
+         cx="576.09998"
+         cy="576.09998"
+         r="16.459999"
+         fill="#f0f4f9"
+         id="circle40" />
+      <circle
+         cx="740.70001"
+         cy="576.09998"
+         r="16.459999"
+         fill="#f2f6f9"
+         id="circle42" />
+      <circle
+         cx="82.300003"
+         cy="740.70001"
+         r="16.459999"
+         fill="#9090ff"
+         id="circle44" />
+      <circle
+         cx="246.89999"
+         cy="740.70001"
+         r="16.459999"
+         fill="#3a3aff"
+         id="circle46" />
+      <circle
+         cx="411.5"
+         cy="740.70001"
+         r="16.459999"
+         fill="#1e1eff"
+         id="circle48" />
+      <circle
+         cx="576.09998"
+         cy="740.70001"
+         r="16.459999"
+         fill="#eef3f8"
+         id="circle50" />
+      <circle
+         cx="740.70001"
+         cy="740.70001"
+         r="16.459999"
+         fill="#9999ff"
+         id="circle52" />
+    </g>
+  </g>
+</svg>
