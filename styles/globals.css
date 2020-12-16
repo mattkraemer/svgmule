@@ -1,3 +1,25 @@
 @tailwind base;
+
+.header-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 75vh;
+  z-index: -1;
+  background-image: url("../public/headerbg.svg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+.header-gradient {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 75vh;
+  z-index: -2;
+  @apply bg-gradient-to-tr from-indigo-600 to-blue-300;
+}
+
 @tailwind components;
 @tailwind utilities;
