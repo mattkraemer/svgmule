@@ -24,7 +24,7 @@ export default function Home() {
                     <img src={"./svg/" + item.file + ".svg"} className="w-1/2 m-auto" />
                   </section>
                   <section className="p-6">
-                    <a href="#" className="p-2 rounded inline-block w-full text-center bg-gray-100 hover:bg-gray-200">Download</a>
+                    <a href={"./svg/" + item.file + ".svg"} download={"./svg/" + item.file + ".svg"} className="p-2 rounded inline-block w-full text-center bg-gray-100 hover:bg-gray-200">Download</a>
                   </section>
                 </article>
               ))
