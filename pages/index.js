@@ -10,10 +10,12 @@ export default function Home() {
       <nav>
         <div className="container mx-auto h-20 flex items-center justify-between px-8">
           <a href="#" className="relative pb-1 px-2 text-indigo-700">
-            <span className="w-full h-full bg-indigo-100 absolute left-0 z-0 transform -skew-y-3" />
+            <span className="w-full h-full bg-white shadow-xl absolute left-0 z-0 transform -skew-y-3" />
             <span className="text-xl font-bold relative">svg</span><span className="text-xl relative">mule</span>
           </a>
-          <span>Free to use SVG Graphics</span>
+          <div className="relative py-1 px-2 bg-indigo-900 bg-opacity-25 text-white">
+            Free to use SVG Graphics
+          </div>
         </div>
       </nav>
       <section className="container mx-auto">
