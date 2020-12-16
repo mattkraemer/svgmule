@@ -19,12 +19,17 @@ export default function Home() {
           <div className="grid md:grid-cols-3 lg:grid-cols-4 gap-4 px-8 pb-8">
             {
               Data.map((item, index) => (
-                <article key={index} className="bg-white rounded shadow-sm">
+                <article key={index} className="bg-white rounded shadow-sm overflow-hidden">
                   <section className="h-64 p-6 flex">
                     <img src={"./svg/" + item.file + ".svg"} className="w-1/2 m-auto" />
                   </section>
-                  <section className="p-6">
-                    <a href={"./svg/" + item.file + ".svg"} download={"./svg/" + item.file + ".svg"} className="p-2 rounded inline-block w-full text-center bg-gray-100 hover:bg-gray-200">Download</a>
+                  <section className="grid grid-cols-2 gap-px bg-gray-100 border-t border-gray-100 text-center">
+                    <a href={"./svg/" + item.file + ".svg"} download={"./svg/" + item.file + ".svg"} className="bg-white p-4 hover:text-indigo-600">
+                      Download
+                    </a>
+                    <a href={"./svg/" + item.file + ".svg"} target="_blank" className="bg-white p-4 hover:text-indigo-600">
+                      View
+                    </a>
                   </section>
                 </article>
               ))
