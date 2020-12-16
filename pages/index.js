@@ -19,12 +19,12 @@ export default function Home() {
         </div>
       </nav>
       <section className="container mx-auto">
-        <div className="grid md:grid-cols-3 lg:grid-cols-4 gap-4 px-8 pb-8">
+        <div className="grid md:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-5 gap-4 px-8 pb-8">
           {
             Data.map((item, index) => (
-              <article key={index} className="bg-white rounded shadow-sm overflow-hidden">
+              <article key={index} className="bg-white bg-opacity-90 rounded shadow-sm overflow-hidden" style={{backdropFilter: "blur(15px)"}}>
                 <section className="h-64 p-6 flex">
-                  <img src={"./svg/" + item.file + ".svg"} className="w-1/2 m-auto" />
+                  <img src={"./svg/" + item.file + ".svg"} className="w-2/3 h-2/3 m-auto" />
                 </section>
                 <section className="grid grid-cols-2 gap-px bg-gray-100 border-t border-gray-100 text-center">
                   <a href={"./svg/" + item.file + ".svg"} download={"./svg/" + item.file + ".svg"} className="bg-white p-4 hover:text-indigo-600">
