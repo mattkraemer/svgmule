@@ -16,7 +16,7 @@ export default function Home() {
           </div>
         </nav>
         <section className="container mx-auto">
-          <div className="grid grid-cols-4 gap-4 px-8 pb-8">
+          <div className="grid md:grid-cols-3 lg:grid-cols-4 gap-4 px-8 pb-8">
             {
               Data.map((item, index) => (
                 <article key={index} className="bg-white rounded shadow-sm">
