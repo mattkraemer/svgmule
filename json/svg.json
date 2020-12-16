@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "file": "bg"
+  },
+  {
+    "id": "2",
+    "file": "chart"
+  },
+  {
+    "id": "3",
+    "file": "circles"
+  },
+  {
+    "id": "4",
+    "file": "mountain"
+  },
+  {
+    "id": "5",
+    "file": "rgb"
+  },
+  {
+    "id": "6",
+    "file": "rgb2"
+  },
+  {
+    "id": "7",
+    "file": "squares"
+  },
+  {
+    "id": "8",
+    "file": "squares2"
+  },
+  {
+    "id": "9",
+    "file": "waves"
+  }
+]
